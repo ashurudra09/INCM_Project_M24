@@ -15,4 +15,9 @@
 
 ## Part 3: Training the Neuron Model
 
+- Code for training and testing the neuron model, as well as other traditional classification models, can be accessed in
+[this notebook](Code/classification.ipynb).
+
 ## Part 4: Results and Comparative Analysis
+
+- Please refer to [this notebook](Code/classification.ipynb).
