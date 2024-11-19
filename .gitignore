@@ -6,3 +6,5 @@ neuron_model_classification.py
 neuronal_classification.py
 test.py
 __pycache__
+penguins_modified.csv
+.ipynb_checkpoints
