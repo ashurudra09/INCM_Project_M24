@@ -127,14 +127,6 @@ INCM_Project_M24/
 
 ---
 
-## Suggested Alternate Repository Name
-
-**spiking-neuron-pattern-classifier**
-
-*Rationale:* This name is more descriptive, highlighting the use of spiking neuron models for pattern recognition and classification. It is concise, unambiguous, and more suitable for discoverability.
-
----
-
 ## References
 
 - Izhikevich, E. M. (2003). Simple model of spiking neurons. IEEE Transactions on Neural Networks.
